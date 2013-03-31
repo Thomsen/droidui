@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">ACTIVITY_ENTRY_NAME</string>
-    <string name="hello">Hello droidui!</string>
+    <string name="lib_name">droidui</string>
+    <string name="hello">hello</string>
 </resources>
